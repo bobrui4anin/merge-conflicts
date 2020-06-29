@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# speak it
+- project: speak it
+  role: developer
+  duration: more than week (last project)
+  url: "https://app.netlify.com/sites/bobrui4anin-team57-speakit"
+  description: study project (pure js, spa). An application for training pronunciation in English.
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# fancy weather
+- project: fancy weather
+  role: developer
+  duration: more than week
+  url: "https://app.netlify.com/sites/bobrui4anin-fancy-weather"
+  description: study project (pure js, spa). Weather app.
+
+# english for kids
+- project: english for kids
+  role: developer
+  duration: more than week
+  url: "https://app.netlify.com/sites/bobrui4anin-english-for-kids"
+  description: study project (pure js, spa). An application for learning English words.
+
+# movie search
+- project: movie search
+  role: developer
+  duration: more than week
+  url: "https://app.netlify.com/sites/bobrui4anin-movie-search"
+  description: study project (pure js, spa). An application for movie search.
